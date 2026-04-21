@@ -6,7 +6,7 @@ Users can sign in with Google, upload a resume for AI-assisted context extractio
 
 ## Links
 
-- Live Deployment: Add your deployed app URL here
+- Live Deployment: https://hiremind-1-58y0.onrender.com
 - GitHub Repository: [https://github.com/ShreyaD28/HireMind](https://github.com/ShreyaD28/HireMind)
 
 ## Why HireMind
